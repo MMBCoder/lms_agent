@@ -1,0 +1,8 @@
+LMS_URL=https://your-lms.com
+
+LMS_USERNAME=
+LMS_PASSWORD=
+
+HEADLESS=false
+
+DATABASE_PATH=data/lms.db
