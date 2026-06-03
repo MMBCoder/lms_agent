@@ -8,7 +8,6 @@ This repository contains the LMS Agent application - an MCP-based agent designed
 ## Project Structure
 ```
 lms_agent/
-├── data/          # Data storage folder
 ├── README.md      # Project documentation
 └── ...
 ```
