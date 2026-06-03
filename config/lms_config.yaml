@@ -1,0 +1,20 @@
+lms_name: Custom LMS
+
+base_url: https://your-lms.com
+
+login:
+  username_selector: "#username"
+  password_selector: "#password"
+  submit_selector: "button[type='submit']"
+
+courses:
+  course_card_selector: ".course-card"
+
+content:
+  content_selector: ".content-item"
+
+video:
+  player_selector: "video"
+
+transcript:
+  tab_selector: "text=Transcript"
